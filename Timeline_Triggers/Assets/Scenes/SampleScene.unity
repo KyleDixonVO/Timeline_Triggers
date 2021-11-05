@@ -294,6 +294,8 @@ PlayableDirector:
     value: {fileID: 242246141}
   - key: {fileID: 307200789351283950, guid: bf0e1134bdd2b2542b1b4da47b4226c7, type: 2}
     value: {fileID: 242488438}
+  - key: {fileID: 2155325852959297936, guid: bf0e1134bdd2b2542b1b4da47b4226c7, type: 2}
+    value: {fileID: 242246142}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &242488437
@@ -1225,7 +1227,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-5334
+  m_Name: pb_Mesh17014
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
